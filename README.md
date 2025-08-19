@@ -17,7 +17,10 @@ Existing travel applications often lack personalized quests or incentives, which
 - **Gyroscope and Compass Integration** for accurate navigation  
 - **Directional Arrow System** to guide users to quest locations  
 - **Responsive UI** integrating map tools and quest tracking features  
-- **Cross-device Testing** under various conditions and use scenarios  
+- **Cross-device Testing** under various conditions and use scenarios
+
+ ![WhatsApp Image 2025-05-30 at 00 32 35 (2)](https://github.com/user-attachments/assets/162d73fe-14ec-494a-a489-2548fdf94b61)
+
 
 ## 👥 Team Contributions
 
