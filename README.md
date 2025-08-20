@@ -1,6 +1,6 @@
-# Wander Quest
+# WanderQuest
 
-**Wander Quest** was created to make traveling more engaging and purposeful by turning real-world exploration into an interactive experience.  
+**WanderQuest** was created to make traveling more engaging and purposeful by turning real-world exploration into an interactive experience.  
 Existing travel applications often lack personalized quests or incentives, which can reduce user motivation. The goal of this project is to promote exploration by combining travel logging, gamification elements, and real-time navigation tools.
 
 ## 🎯 Motivation & Project Aim
