@@ -1,7 +1,8 @@
 # Wander Quest
 
 **Wander Quest** was created to make traveling more engaging and purposeful by turning real-world exploration into an interactive experience.  
-Existing travel applications often lack personalized quests or incentives, which can reduce user motivation. The goal of this project is to promote exploration by combining travel logging, gamification elements, and real-time navigation tools.
+Existing travel applications often lack personalized quests or incentives, which can reduce user motivation. The goal of this project is to promote exploration by combining travel logging, gamification elements, and real-time navigation tools.   
+You can find the PDF versions of the reports containing all the details of the projects we prepared at the end of the first and second semesters of the senior design project in the files named Wander Quest–First Semester–Final Report.pdf and Wander Quest–Second Semester–Final Report.pdf.
 
 ## 🎯 Motivation & Project Aim
 
